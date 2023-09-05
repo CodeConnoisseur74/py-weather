@@ -1,0 +1,12 @@
+{
+    "editor.fontFamily": "FiraMono NF",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontWeightBold": "bold",
+    "terminal.integrated.localEchoStyle": "dim",
+    "terminal.integrated.fontSize": 14
+}
